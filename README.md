@@ -1,3 +1,3 @@
 # Cats Dogs Classification
 
-In this project, I have build fully connected neural network, used transfer learning using vgg16, used drop out, data generation and  augmentation then comparing the accuracy of each model.
+In this project, I have build different models and compared the accuracy of them. The models are fully connected neural network, transfer learning using vgg16. I have also used data generation and augmentation.
